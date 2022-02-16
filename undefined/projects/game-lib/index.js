@@ -49,7 +49,7 @@
             handleCollision(impact, body) {
               // template method //
             },
-  
+            //random comment
             /**
              * Can be overridden in the concrete body to provide a custom update()
              * method.
